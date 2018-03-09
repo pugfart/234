@@ -1,0 +1,12 @@
+{
+    "name": "andrew",
+    "age": 22,
+    "father": [
+        "andy",
+        "howard"
+    ],
+    "love": {
+        "name": "joshua",
+        "age": 23
+    }
+}
